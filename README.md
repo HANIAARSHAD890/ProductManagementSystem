@@ -9,7 +9,7 @@ A modern **Point of Sale (POS) Management System** built with Node.js, PostgreSQ
 - **Backend:** Node.js, Express.js  
 - **Database:** PostgreSQL  
 - **Frontend:** HTML, CSS, JavaScript, jQuery  
-- **API Documentation:** Swagger (OpenAPI)  
+- **API Testing:** Swagger (OpenAPI)  
 
 ---
 
