@@ -61,10 +61,10 @@ POS-SYSTEM/
 ![Dashboard Page](Screenshots/Dashboard.jpg)  
 *Product management interface with add/update/delete functionality.*
 
-![Product Page](frontend/screenshots/Products.jpg)  
+![Product Page](Screenshots/Products.jpg)  
 *Product management interface with add/update/delete functionality.*
 
-![Category Page](frontend/screenshots/Categories.png)  
+![Category Page](Screenshots/Categories.png)  
 *Category listing with products per category.*
 
 
